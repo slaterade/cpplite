@@ -1,6 +1,7 @@
 #include "hello.h"
-#include <iostream>
+#include <cstdio>
 
 void hello() {
 	printf("Hello Dave.\n");
 }
+
